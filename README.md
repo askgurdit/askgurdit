@@ -12,7 +12,7 @@ I'm a 19-year-old developer based in India, and I'm passionate about crafting te
  
 **Version Control:** `Git` `GitLab`
 
-// **Backend Development:** `I'll start this soon!`
+**Backend Development:** `I'll start this soon!`
 
  
 ## ✨ Fun Facts 
