@@ -14,6 +14,12 @@ I'm a 19-year-old developer based in India, and I'm passionate about crafting te
 
 **Backend Development:** `I'll start this soon!`
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=askgurdit&show_icons=true&locale=en&layout=compact" alt="askgurdit" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=askgurdit&show_icons=true&locale=en" alt="askgurdit" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=askgurdit&" alt="askgurdit" /></p>
+
  
 ## ✨ Fun Facts 
 
