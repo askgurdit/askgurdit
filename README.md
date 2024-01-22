@@ -2,7 +2,7 @@
 
 I'm a 19-year-old developer based in India, and I'm passionate about crafting tech solutions that actually make lives better. 
 
-- Check out my [website](https://askgurdit.github.io/Responsive-File-Card/) to learn more about me.
+- Check out my [website](https://askgurdit.github.io/Responsive-File-Card1/) to learn more about me.
 - Explore my [Twitter](https://twitter.com/httpgurdit) where I share insights and learnings.
 - Stay updated with my journey on [Instagram](https://www.instagram.com/thecsestudent), [LinkedIn](https://www.linkedin.com/in/gurditsingh2004) and [YouTube](https://www.youtube.com/@askgurdit).
 
