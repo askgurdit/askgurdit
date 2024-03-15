@@ -8,11 +8,13 @@ I'm a 19-year-old developer based in India, and I'm passionate about crafting te
 
 ## 📦 Toolbox
 
-**Frontend Development:** `HTML` `CSS` `JavaScript`
+**Frontend Development:** `HTML` `CSS` `BootStrap`
  
 **Version Control:** `Git` `GitLab`
 
-**Backend Development:** `I'll start this soon!`
+**Backend Development:** `JavaScript` `Node.js` `MongoDB`
+
+**Currently Learning:** `Next.js` `Express.js` `React` `Linux OS`
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=askgurdit&show_icons=true&locale=en&layout=compact" alt="askgurdit" /></p>
 <br>
