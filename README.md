@@ -14,7 +14,7 @@ I'm a 19-year-old developer based in India, and I'm passionate about crafting te
 
 **Backend Development:** `JavaScript` `Node.js` `MongoDB`
 
-**Currently Learning:** `Next.js` `Express.js` `React` `Linux OS`
+**Currently Learning:** `Nuxt.js` `Express.js` `Vue.js` `Linux OS`
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=askgurdit&show_icons=true&locale=en&layout=compact" alt="askgurdit" /></p>
 <br>
