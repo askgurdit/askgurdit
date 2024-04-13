@@ -21,6 +21,10 @@ I'm a 19-year-old developer based in India, and I'm passionate about crafting te
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=askgurdit&show_icons=true&locale=en" alt="askgurdit" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=askgurdit&" alt="askgurdit" /></p>
  
+[![askgurdit's GitHub | Stats](https://stats.quine.sh/askgurdit/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=askgurdit)
+
+[![askgurdit's GitHub | Languages](https://stats.quine.sh/askgurdit/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=askgurdit)
+
 ## ✨ Fun Facts 
 
 - Swades is one of my favorite movies.
