@@ -1,6 +1,6 @@
 ### Hey, I'm Gurdit Singh 👋🏽 
 
-I'm a 19-year-old developer based in India, and I'm passionate about crafting tech solutions that actually make lives better. 
+I'm a 20-year-old developer based in India, and I'm passionate about crafting tech solutions that actually make lives better. 
 
 - Check out my [website]((https://askgurdit.github.io/Responsive-File-Card1/))  to learn more about me.
 - Explore my [Twitter](https://twitter.com/httpgurdit) where I share insights and learnings.
@@ -12,9 +12,9 @@ I'm a 19-year-old developer based in India, and I'm passionate about crafting te
  
 **Version Control:** `Git` `GitLab`
 
-**Backend Development:** `JavaScript` `Node.js` `MongoDB`
+**Backend Development:** `JavaScript` `Node.js` `MongoDB` `Express.js` `Rest API's`
 
-**Currently Learning:** `Nuxt.js` `Express.js` `Vue.js` `Linux OS`
+**Currently Learning:** `Next.js`  `React.js` `Linux OS`
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=askgurdit&show_icons=true&locale=en&layout=compact" alt="askgurdit" /></p>
 <br>
