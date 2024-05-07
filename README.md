@@ -25,6 +25,8 @@ I'm a 20-year-old developer based in India, and I'm passionate about crafting te
 
 [![askgurdit's GitHub | Languages](https://stats.quine.sh/askgurdit/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=askgurdit)
 
+[![](https://visitcount.itsvg.in/api?id=askgurdit&icon=0&color=0)](https://visitcount.itsvg.in)
+
 ## ✨ Fun Facts 
 
 - Swades is one of my favorite movies.
