@@ -2,6 +2,8 @@
 
 I'm a 20-year-old developer based in India, and I'm passionate about crafting tech solutions that actually make lives better. 
 
+[![](https://visitcount.itsvg.in/api?id=askgurdit&label=Profile%20Views&color=9&icon=5&pretty=false)](https://visitcount.itsvg.in)
+
 - Check out my [website]((https://askgurdit.github.io/Responsive-File-Card1/))  to learn more about me.
 - Explore my [Twitter](https://twitter.com/httpgurdit) where I share insights and learnings.
 - Stay updated with my journey on [Instagram](https://www.instagram.com/thecsestudent), [LinkedIn](https://www.linkedin.com/in/gurditsingh2004) and [YouTube](https://www.youtube.com/@askgurdit).
@@ -28,7 +30,8 @@ I'm a 20-year-old developer based in India, and I'm passionate about crafting te
 
 [![askgurdit's GitHub | Languages](https://stats.quine.sh/askgurdit/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=askgurdit)
 
-[![](https://visitcount.itsvg.in/api?id=askgurdit&label=Profile%20Views&color=9&icon=5&pretty=false)](https://visitcount.itsvg.in)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=askgurdit&bg_color=d1e5ff&color=9e4c9c&line=8d4c9e&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ## ✨ Fun Facts 
 
