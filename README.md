@@ -1,6 +1,6 @@
 ### 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hey%2C+I'm+Gurdit+Singh+%F0%9F%91%8B%F0%9F%8F%BD+)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hey%2C++I'm+a+20-year-old+developer+based+in+India%2C+and+I'm+passionate+about+crafting+tech+solutions+that+actually+make+lives+better.+)](https://git.io/typing-svg)
+
 
 [![](https://visitcount.itsvg.in/api?id=askgurdit&label=Profile%20Views&color=9&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
