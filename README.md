@@ -25,12 +25,16 @@ I'm a 20-year-old developer based in India, and I'm passionate about crafting te
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=askgurdit&show_icons=true&locale=en" alt="askgurdit" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=askgurdit&" alt="askgurdit" /></p>
+
+https://api.githubtrends.io/user/svg/askgurdit/langs?time_range=one_year&theme=classic
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=askgurdit&bg_color=d1e5ff&color=9e4c9c&line=8d4c9e&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
  
 [![askgurdit's GitHub | Stats](https://stats.quine.sh/askgurdit/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=askgurdit)
 
-[![askgurdit's GitHub | Languages](https://stats.quine.sh/askgurdit/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=askgurdit)
+//[![askgurdit's GitHub | Languages](https://stats.quine.sh/askgurdit/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=askgurdit)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=askgurdit&bg_color=d1e5ff&color=9e4c9c&line=8d4c9e&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ## ✨ Fun Facts 
