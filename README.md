@@ -18,7 +18,7 @@
  
 **Version Control:** `Git` `GitLab`
 
-**Backend Development:** `JavaScript` `Node.js` `MongoDB` `Express.js` `Rest API's`
+**Backend Development:** `TypeScript` `JavaScript` `Node.js` `MongoDB` `Express.js` `Rest API's`
 
 **Currently Learning:** `Next.js` `Shad CN` `Redux` `Linux OS`
 
