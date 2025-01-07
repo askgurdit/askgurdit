@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 - I'm 20 year old developer based in India and I'm passionate about creating tech solutions that actually make lives better.<br>
-🔭 I’m currently working on Full Stack Development.<br>👯 I’m looking to collaborate on Full Stack Projects.<br>🌱 I’m currently learning DSA and Backend Development.<br>💬 Ask me about React and NextJs.<br>
+🔭 I’m currently working on Full Stack Development.<br>👯 I’m looking to collaborate on Full Stack Projects.<br>🌱 I’m currently learning DSA and Frontend Development.<br>💬 Ask me about React.<br>
 
 
 [![](https://visitcount.itsvg.in/api?id=askgurdit&label=Profile%20Views&color=9&icon=5&pretty=false)](https://visitcount.itsvg.in)
