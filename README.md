@@ -30,12 +30,11 @@
 ![](https://github-profile-trophy.vercel.app/?username=askgurdit&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=askgurdit&show_icons=true&locale=en&layout=compact" alt="askgurdit" /></p>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=askgurdit&show_icons=true&locale=en" alt="askgurdit" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=askgurdit&" alt="askgurdit" /></p>
 
-`<p><img align="center" src= "https://api.githubtrends.io/user/svg/askgurdit/langs?time_range=one_year&theme=classic" alt="askgurdit" /></p>`
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=askgurdit&bg_color=d1e5ff&color=9e4c9c&line=8d4c9e&point=403d3d&area=true&hide_border=true)]`(https://github.com/ashutosh00710/github-readme-activity-graph)`
+<p><img align="center" src= "https://api.githubtrends.io/user/svg/askgurdit/langs?time_range=one_year&theme=classic" alt="askgurdit" /></p>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=askgurdit&bg_color=d1e5ff&color=9e4c9c&line=8d4c9e&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
  
 [![askgurdit's GitHub | Stats](https://stats.quine.sh/askgurdit/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=askgurdit)
